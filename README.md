@@ -10,3 +10,4 @@ Os seguintes padrões serão abordados neste projeto:
 1. Strategy
 2. Null Object
 3. Template Method
+4. Factory Method
