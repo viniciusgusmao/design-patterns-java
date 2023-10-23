@@ -1,6 +1,6 @@
 # Strategy
 
-O *Strategy* é um padrão que deve ser utilizado quando um classe possuir diversos algoritmos que possam ser utilizados de forma intercambiável. 
+O *Strategy* é um padrão que deve ser utilizado quando uma classe possuir diversos algoritmos que possam ser utilizados de forma intercambiável. 
 
 A principal consequência positiva é justamente o fato de o algortimo poder ser alterado sem a modificação da classe. A partir dessa estrutura, novas implementações dele podem ser criadas e introduzidas posteriormente.
 

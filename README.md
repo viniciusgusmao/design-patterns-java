@@ -11,3 +11,4 @@ Os seguintes padrões serão abordados neste projeto:
 2. Null Object
 3. Template Method
 4. Factory Method
+5. Bridge
